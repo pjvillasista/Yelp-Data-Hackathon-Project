@@ -1,4 +1,4 @@
-# Yelp-Data-Hackathon-Project
+# SoCal RUG Yelp Data Hackathon Project
 
 ## Project Overview
 This project was developed for the 24-hour data hackathon using the Yelp public dataset. Our goal was to analyze Yelp data to uncover insights that could enhance user experience on the platform. By leveraging data analysis and machine learning techniques, we aimed to provide a more nuanced understanding of what factors contribute to a business's success on Yelp, beyond just star ratings.
