@@ -7,7 +7,7 @@ This project was developed for the 24-hour data hackathon using the Yelp public 
 - **[Main GitHub](https://github.com/socalrug/hackathon-2023-04)**
 - **[Judging Criteria](https://github.com/socalrug/hackathon-2023-04/blob/main/admin/judging_guidelines.md)**
 - **[Submission Instructions](https://www.dropbox.com/request/2nbEqH2gih6zMFNjvq2E)**
-- **[Technical Documentation](https://spacy.io/api/doc), [NLTK Documentation](https://www.nltk.org/)
+- **[Technical Documentation](https://spacy.io/api/doc), [NLTK Documentation](https://www.nltk.org/)**
 - **[Past Hackathons](https://github.com/socalrug?tab=repositories&q=hackathon&type=&language=&sort=)**
 
 ## Installation and Setup
