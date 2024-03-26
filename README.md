@@ -19,28 +19,6 @@ Design a dashboard that showcases leading Yelp businesses in each category on an
 - **Data Source**: Yelp API, Yelp Dataset on Kaggle
 - **Visualization Tool**: Tableau
 
-## Directory Structure
-
-Ensure your project follows this directory structure for ease of navigation and management:
-
-```
-Yelp_Postgres/
-│
-├── data/
-│   ├── raw_data/             # Directory for storing raw data
-│   └── processed_data/       # Directory for storing processed data
-│
-├── sql_load/
-│   ├── json_to_csv.ipynb     # Jupyter notebook for converting JSON to CSV
-│   └── setup_db.sql          # SQL script for setting up the database
-│
-├── venv/                     # Virtual environment directory
-│
-├── .env                      # Environment variables file
-├── .gitignore                # Specifies intentionally untracked files to ignore
-└── README.MD                 # Project's README file
-```
-
 ## Ranking Algorithm
 
 The algorithm combines three key factors to compute a composite score for each business, adjusting the relative importance of each factor as follows:
